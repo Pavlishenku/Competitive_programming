@@ -1,0 +1,10 @@
+# Bibliothèque Python pour Programmation Compétitive
+# Aucune dépendance externe requise - utilise uniquement la bibliothèque standard Python
+
+# Python >= 3.9 recommandé
+
+# Pour les développeurs (tests, linting)
+# pytest>=7.0.0
+# flake8>=4.0.0
+# black>=22.0.0
+
